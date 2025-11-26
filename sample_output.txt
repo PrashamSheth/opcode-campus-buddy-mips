@@ -1,0 +1,56 @@
+=== CAMPUS BUDDY ===
+
+Select a day (1-6) or 7 to Exit:
+1: Monday
+2: Tuesday
+3: Wednesday
+4: Thursday
+5: Friday
+6: Saturday
+7: Exit Program
+Your choice: 1
+Enter the current time in 24-hour HHMM format (e.g. 1015): 1015
+Student ID: 20230026 | Day: Monday | Time: 10:15
+
+TODAY'S SCHEDULE:
+9:00 - 10:30 Deep Learning (Room 2201)
+10:30 - 11:30 Engineering Mechanics (Room 1104)
+2:00 - 3:30 Foundations of Computer Systems (Room 2201)
+3:30 - 4:30 Sensing and Actuation (Room 2203)
+
+Next class in 0 h 15 min: 10:30 - 11:30 Engineering Mechanics (Room 1104)
+Where to go: grab something at the canteen and stay close to class.
+
+ACADEMIC OVERVIEW:
+Current CGPA: 8.15 | Credits: 81/180
+Target CGPA: 8.5 | Required this semester: 9.68
+Graduation progress now:        [#########...........] 45%
+After this semester (if passed): [###########.........] 58%
+
+ATTENDANCE PLANNER:
+Deep Learning  36/48 (75%) (ATTENDANCE CRITERIA WILL NOT BE FULFILLED)
+Eng Mechanics  46/64 (71%) (ATTENDANCE CRITERIA WILL NOT BE FULFILLED)
+FoCS           34/48 (70%) (ATTENDANCE CRITERIA WILL NOT BE FULFILLED)
+Sensing Act    49/64 (76%) (ATTENDANCE CRITERIA WILL NOT BE FULFILLED)
+Electromag     39/48 (81%) (ATTENDANCE CRITERIA FULFILLED)
+
+SMART SUGGESTIONS:
+Free Slot: Long break (11:30 - 2:00). Ideal for lunch and focused study or project work.
+Activity Suggestion: Quick sports session or walk to refresh before next class.
+Study Time Suggestion: Morning (6:30 - 9:00) - best for focused learning.
+
+Menu: [1-Schedule] [2-Grades] [3-Attendance] [4-Suggestions] [5-Change day/Exit]
+Your choice: 5
+Option 5: Returning to Day Selection...
+
+Select a day (1-6) or 7 to Exit:
+1: Monday
+2: Tuesday
+3: Wednesday
+4: Thursday
+5: Friday
+6: Saturday
+7: Exit Program
+Your choice: 7
+Exiting program...
+
